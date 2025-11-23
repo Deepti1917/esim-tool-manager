@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-11-22T23:26:35.975639",
+  "results": {
+    "Python": {
+      "name": "Python",
+      "installed": true,
+      "version": "Python 3.12.1",
+      "error": null
+    },
+    "Git": {
+      "name": "Git",
+      "installed": false,
+      "version": null,
+      "error": "Command not found"
+    },
+    "Ngspice": {
+      "name": "Ngspice",
+      "installed": false,
+      "version": null,
+      "error": "Command not found"
+    },
+    "Make": {
+      "name": "Make",
+      "installed": true,
+      "version": "GNU Make 4.4.1",
+      "error": null
+    },
+    "GCC": {
+      "name": "GCC",
+      "installed": true,
+      "version": "gcc (Rev3, Built by MSYS2 project) 13.2.0",
+      "error": null
+    }
+  }
+}
