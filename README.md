@@ -22,13 +22,6 @@ This project implements 2 of the 6 requirements:
 ### Prerequisites
 - Python 3.6 or higher
 
-### Steps
-1. Clone this repository
-2. Navigate to the project directory
-3. Run the tool:
-```bash
-   python tool_manager.py
-```
 
 ## Usage
 
@@ -98,6 +91,7 @@ Deepti Srivastava
 
 eSim Winter Internship 2025 - Task 3
 ```
+
 
 
 
